@@ -73,7 +73,7 @@ project-root/
 
 ## 🛠 Technologies
 
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy, Scikit-learn)
 - Google Colab
 - NLP: Tokenization (nltk) and Embeddings (BERT)
 - GDELT Event Database
